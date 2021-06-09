@@ -1,6 +1,6 @@
 <h2><img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='37' align="left" style="max-width:100%;"/> Hey there! I'm Khasan</h2>
 
-<img alt="Night Coding" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" align="right" height="200"/>
+<img alt="Night Coding" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" align="right" height="190"/>
 
 ### 🛠 &nbsp;Tech Stack
 
