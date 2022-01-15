@@ -1,4 +1,4 @@
-<h2><img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='35' align="left" style="max-width:100%;"/> Hey there! I'm Khasan</h2>
+<h2><img alt="Hello" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='35' align="left" style="max-width:100%;"/> Hey there! I'm Khasan</h2>
 
 <!-- <img alt="Night Coding" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" align="right" height="190"/> -->
 
@@ -19,7 +19,7 @@
  ### ⚙️ &nbsp;GitHub Analytics
  
 <p align="left">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/Amirovvv">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Amirovvv&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
