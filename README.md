@@ -5,7 +5,7 @@ About Me:
 Languages and Tools :
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,vue,vite,firebase&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,vite,firebase&theme=light)](https://skillicons.dev)
 
 <hr>
 
