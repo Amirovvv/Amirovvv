@@ -1,6 +1,6 @@
 About Me:
 ---
-<b>Frontend engineer from Russia. 21 y.o.</b>
+<b>Frontend engineer from Russia.</b>
 
 Languages and Tools :
 ---
