@@ -7,8 +7,6 @@ Languages and Tools :
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,nuxtjs,vite,tailwind,firebase)
 
-<hr>
-
 Social
 ---
 <p align="center">
